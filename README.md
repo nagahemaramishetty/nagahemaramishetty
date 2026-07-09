@@ -4,9 +4,6 @@
 
 I build end to end analytics workflows, not isolated scripts. From raw ingestion and pipeline orchestration through transformation, testing, and executive facing dashboards, each project below reflects the full analyst lifecycle a business actually runs on.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nagaramishetty-blue?logo=linkedin)](https://www.linkedin.com/in/nagaramishetty/)
-[![Email](https://img.shields.io/badge/Email-nagahemaramishetty2%40gmail.com-red?logo=gmail)](mailto:nagahemaramishetty2@gmail.com)
-
 ---
 
 ## About Me
@@ -55,6 +52,8 @@ A full stack analytics pipeline built to mirror what a commerce analytics team a
 
 ---
 
-## Connect
+## 📬 Connect
 
-[LinkedIn](https://www.linkedin.com/in/nagaramishetty/) • [Email](mailto:nagahemaramishetty2@gmail.com)
+📧 [nagahemaramishetty2@gmail.com](mailto:nagahemaramishetty2@gmail.com)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/nagaramishetty/](https://www.linkedin.com/in/nagaramishetty/)
+🔗 **GitHub:** [https://github.com/nagahemaramishetty](https://github.com/nagahemaramishetty)
