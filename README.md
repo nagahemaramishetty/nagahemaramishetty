@@ -1,6 +1,6 @@
 # Hi, I'm Naga Hema Ramishetty
 
-**Senior Data Analyst | SQL, Python, dbt, Airflow, PySpark | Turning messy, real world data into decisions leadership can act on**
+** Data Analyst | SQL, Python, dbt, Airflow, PySpark | Turning messy, real world data into decisions leadership can act on**
 
 I build end to end analytics workflows, not isolated scripts. From raw ingestion and pipeline orchestration through transformation, testing, and executive facing dashboards, each project below reflects the full analyst lifecycle a business actually runs on.
 
@@ -8,7 +8,7 @@ I build end to end analytics workflows, not isolated scripts. From raw ingestion
 
 ## About Me
 
-I'm a data analyst with a background spanning SQL and Python driven analysis, workflow orchestration, and stakeholder reporting. My projects are built the way production analytics work actually happens: messy source data, real infrastructure decisions, documented failures and fixes, and a final deliverable meant for someone outside the project to read and trust.
+I recently completed my Master's in Computational Science and Data Science at UNC Charlotte. I'm a data analyst with a background spanning SQL and Python driven analysis, workflow orchestration, and stakeholder reporting. My projects are built the way production analytics work actually happens: messy source data, real infrastructure decisions, documented failures and fixes, and a final deliverable meant for someone outside the project to read and trust.
 
 ---
 
@@ -44,9 +44,9 @@ A full stack analytics pipeline built to mirror what a commerce analytics team a
 
 | Category                       | Tools                                                             |
 | ------------------------------ | ----------------------------------------------------------------- |
-| Languages                      | Python, SQL                                                       |
-| Databases                      | PostgreSQL, SQLite, DuckDB                                        |
-| Transformation & Orchestration | dbt, Apache Airflow, PySpark                                      |
+| Languages                      | Python, SQL, R.                                                   |
+| Databases                      | PostgreSQL, SQLite, DuckDB, MySQL                                 |
+| Transformation & Orchestration | dbt, Apache Airflow, PySpark.                                     |
 | Visualization & Reporting      | Tableau, Power BI, Excel, reportlab                               |
 | Analysis                       | A/B Testing, Statistical Modeling, Time Series, Anomaly Detection |
 
@@ -54,6 +54,6 @@ A full stack analytics pipeline built to mirror what a commerce analytics team a
 
 ## 📬 Connect
 
-📧 [nagahemaramishetty2@gmail.com](mailto:nagahemaramishetty2@gmail.com)
-🔗 **LinkedIn:** [https://www.linkedin.com/in/nagaramishetty/](https://www.linkedin.com/in/nagaramishetty/)
-🔗 **GitHub:** [https://github.com/nagahemaramishetty](https://github.com/nagahemaramishetty)
+- 📧 [nagahemaramishetty2@gmail.com](mailto:nagahemaramishetty2@gmail.com)
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/nagaramishetty/](https://www.linkedin.com/in/nagaramishetty/)
+- 🔗 **GitHub:** [https://github.com/nagahemaramishetty](https://github.com/nagahemaramishetty)
