@@ -1,6 +1,6 @@
 # Hi, I'm Naga Hema Ramishetty
 
-**Data Analyst | SQL, Python, dbt, Airflow, PySpark | Turning messy, real world data into decisions leadership can act on**
+**Data Analyst | SQL, Python, Tableau, dbt, Airflow, PySpark | Turning messy, real world data into decisions leadership can act on.**
 
 I build end to end analytics workflows, not isolated scripts. From raw ingestion and pipeline orchestration through transformation, testing, and executive facing dashboards, each project below reflects the full analyst lifecycle a business actually runs on.
 
