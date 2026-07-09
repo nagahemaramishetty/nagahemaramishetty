@@ -1,18 +1,18 @@
 # Hi, I'm Naga Hema Ramishetty
 
-** Data Analyst | SQL, Python, dbt, Airflow, PySpark | Turning messy, real world data into decisions leadership can act on**
+**Data Analyst | SQL, Python, dbt, Airflow, PySpark | Turning messy, real world data into decisions leadership can act on**
 
 I build end to end analytics workflows, not isolated scripts. From raw ingestion and pipeline orchestration through transformation, testing, and executive facing dashboards, each project below reflects the full analyst lifecycle a business actually runs on.
 
 ---
 
-## About Me
+## 🧠 About Me
 
 I recently completed my Master's in Computational Science and Data Science at UNC Charlotte. I'm a data analyst with a background spanning SQL and Python driven analysis, workflow orchestration, and stakeholder reporting. My projects are built the way production analytics work actually happens: messy source data, real infrastructure decisions, documented failures and fixes, and a final deliverable meant for someone outside the project to read and trust.
 
 ---
 
-## Projects
+## 🚀 Projects
 
 | Project                                                                                                                    | Description                                                                                                                                                                                                                         | Tools                                                     |
 | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
@@ -24,7 +24,7 @@ I recently completed my Master's in Computational Science and Data Science at UN
 
 ---
 
-## Featured Project
+## 📍 Featured Project
 
 ### [Unified Commerce Data Pipeline](https://github.com/nagahemaramishetty/unified-commerce-data-pipeline)
 
@@ -40,7 +40,7 @@ A full stack analytics pipeline built to mirror what a commerce analytics team a
 
 ---
 
-## Tech Stack
+## 👩‍💻 Tech Stack
 
 | Category                       | Tools                                                             |
 | ------------------------------ | ----------------------------------------------------------------- |
