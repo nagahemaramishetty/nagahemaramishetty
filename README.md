@@ -8,7 +8,7 @@ I build end to end analytics workflows, not isolated scripts. From raw ingestion
 
 ## 🧠 About Me
 
-I recently completed my Master's in Computational Science and Data Science at UNC Charlotte. I'm a data analyst with a background spanning SQL and Python driven analysis, workflow orchestration, and stakeholder reporting. My projects are built the way production analytics work actually happens: messy source data, real infrastructure decisions, documented failures and fixes, and a final deliverable meant for someone outside the project to read and trust.
+I recently completed my Master's in Computer Science with Data Science Concentration at UNC Charlotte. I'm a data analyst with a background spanning SQL and Python driven analysis, workflow orchestration, and stakeholder reporting. My projects are built the way production analytics work actually happens: messy source data, real infrastructure decisions, documented failures and fixes, and a final deliverable meant for someone outside the project to read and trust.
 
 ---
 
